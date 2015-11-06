@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GMGG]]></title>
+        <description><![CDATA[GMGG]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 17:11:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://portland-mp7static.mlsdigital.net/styles/image_landscape/s3/images/Timbers.vsVancouver110115.CM151.jpg?YRL_PTk8ydMGvmDLnig2z2ro38KG10zg&itok=tWTwpLKz&c=593dd3b78a4509e1ad16b5ff8a4507c1">]]></description>
+            <link>undefined1bd299d8-a979-44c7-afee-15a3f6aca614/index.html</link>
+            <guid isPermaLink="false">1bd299d8-a979-44c7-afee-15a3f6aca614</guid>
+            <pubDate>Fri, 06 Nov 2015 17:10:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
