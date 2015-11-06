@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-05T21:13:31.605Z'
-dateModified: '2015-11-05T19:57:41.803Z'
+datePublished: '2015-11-06T00:43:24.572Z'
+dateModified: '2015-11-06T00:30:35.521Z'
 title: 'pumpkin time, yes.'
 sourcePath: _posts/2015-11-05-pumpkin-time.md
 published: true
@@ -17,7 +18,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: pumpkin-time-yes/index.html
 _type: Blurb
 
 ---
