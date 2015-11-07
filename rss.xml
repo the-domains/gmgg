@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GMGG]]></title>
         <description><![CDATA[GMGG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gmgg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 16:43:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 16:48:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gmgg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[halloween 2015]]></title>
             <description><![CDATA[<article><h1>halloween 2015</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af0ffbd-3d7f-4dce-8502-a76a5b244ae5.JPG"></article>]]></description>
-            <link>undefinedhalloween-2015/index.html</link>
+            <link>https://thegrid.ai/gmgg/halloween-2015/index.html</link>
             <guid isPermaLink="false">ae010e06-b76c-4891-89c0-3f253900596d</guid>
-            <pubDate>Sat, 07 Nov 2015 16:42:54 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 16:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
