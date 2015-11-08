@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GMGG]]></title>
-        <description><![CDATA[GMGG]]></description>
+        <title><![CDATA[the garner family in portland]]></title>
+        <description><![CDATA[the garner family in portland]]></description>
         <link>https://thegrid.ai/gmgg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 16:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 17:13:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gmgg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[halloween 2015]]></title>
             <description><![CDATA[<article><h1>halloween 2015</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af0ffbd-3d7f-4dce-8502-a76a5b244ae5.JPG"></article>]]></description>
             <link>https://thegrid.ai/gmgg/halloween-2015/index.html</link>
             <guid isPermaLink="false">ae010e06-b76c-4891-89c0-3f253900596d</guid>
-            <pubDate>Sat, 07 Nov 2015 16:48:11 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2015 17:12:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
